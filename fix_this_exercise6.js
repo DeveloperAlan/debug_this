@@ -16,4 +16,4 @@ var house : {
 	}
 }
 
-console,log(house.addwindow);
+console,log(house.windows);
