@@ -7,3 +7,5 @@ function run() {
        return str;
     }};
 }
+
+console.log(run());
